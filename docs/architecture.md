@@ -1,5 +1,6 @@
 # Modelo de Dados — AnimeChecklist
 
+```mermaid
 erDiagram
 
     USUARIO ||--o{ CHECKLIST : possui
