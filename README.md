@@ -1,4 +1,11 @@
 # checklist-anime
+
+### **Autor:** Lucas Gabriel Dallagnol Andrade
+
+Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada em operações comuns de uma página de checklist de animes (ex: adicionar anime, marcar como assistido, remover da lista, atualizar status, visualizar progresso), sendo o diferencial, a organização e o acompanhamento dos animes de forma prática pelo cliente.
+
+O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
+
 ## ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
 #### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
