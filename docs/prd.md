@@ -4,7 +4,7 @@
 
 O **AnimeChecklist** é uma aplicação web desenvolvida para ajudar fãs de anime a organizar, acompanhar e registrar os animes que desejam assistir, estão assistindo ou já concluíram.
 
-**O grande diferencial (Regra de Negócio Principal):** o sistema funciona como uma checklist personalizada, permitindo que o usuário altere o status de cada anime e acompanhe seu progresso, mantendo sua lista organizada e evitando esquecer episódios ou séries que pretende assistir.
+**O grande diferencial (Regra de Negócio Principal):** o sistema funciona como uma checklist personalizada, permitindo que o usuário altere o status de cada anime e acompanhe seu progresso, mantendo sua lista organizada e evitando esquecer episódios ou animes que pretende assistir.
 
 O objetivo é criar uma experiência simples, visual e prática para qualquer pessoa que queira administrar sua jornada pelo mundo dos animes.
 
