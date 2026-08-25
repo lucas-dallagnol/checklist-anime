@@ -1,4 +1,5 @@
 erDiagram
+<br>
  USUARIO ||--o{ CHECKLIST : possui
  ANIME ||--o{ CHECKLIST : esta_em
  USUARIO { 
