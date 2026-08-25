@@ -47,11 +47,11 @@ Abaixo estão as funcionalidades principais do MVP (*Minimum Viable Product*), e
 
 ### 🔎 Épico 3: Organização e Busca
 
-* **US08 - Pesquisar Anime:** Como um Usuário, quero pesquisar um anime pelo nome para encontrá-lo rapidamente na minha checklist.
+* **US06 - Pesquisar Anime:** Como um Usuário, quero pesquisar um anime pelo nome para encontrá-lo rapidamente na minha checklist.
 
-* **US09 - Filtrar por Status:** Como um Usuário, quero filtrar os animes pelo status para visualizar apenas aqueles que quero assistir, estou assistindo, pausei ou concluí.
+* **US07 - Filtrar por Status:** Como um Usuário, quero filtrar os animes pelo status para visualizar apenas aqueles que quero assistir, estou assistindo, pausei ou concluí.
 
-* **US10 - Remover Anime:** Como um Usuário, quero remover um anime da minha checklist caso não tenha mais interesse em assisti-lo.
+* **US8 - Remover Anime:** Como um Usuário, quero remover um anime da minha checklist caso não tenha mais interesse em assisti-lo.
 
   * *Critérios de Aceitação:* O sistema deve solicitar uma confirmação antes de excluir o anime da lista.
 
