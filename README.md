@@ -14,6 +14,11 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 - [🛠️ Especificação Técnica (Tech Spec)](./docs/architecture.md) - Diagrama de banco de dados (DER), dicionário de dados e rotas da API (JSON Server).
 
 
+## 🌐 Site em Produção - GitHub Pages
+
+https://utfpr-gp.github.io/roubank-css/
+
+
 ## ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
 #### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
