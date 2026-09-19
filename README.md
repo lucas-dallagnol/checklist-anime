@@ -18,6 +18,11 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 
 https://stitch.withgoogle.com/projects/9871053511676674230
 
+## 💻 Tecnologias e Dependências
+
+- **Framework CSS:** Bootstrap
+- **API:** AniListAPI
+
 
 ## ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
